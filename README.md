@@ -12,4 +12,3 @@ This project scrapes Apple smartphone listings from [Jumia Kenya](https://www.ju
    ```bash
    pip install requests beautifulsoup4 pandas
 
-This is concise and good enough for an upload. Let me know if you need changes! 🚀
